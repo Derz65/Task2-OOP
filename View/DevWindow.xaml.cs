@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Task2SqlServer.View
+namespace Task2.View
 {
     /// <summary>
     /// Логика взаимодействия для DevWindow.xaml

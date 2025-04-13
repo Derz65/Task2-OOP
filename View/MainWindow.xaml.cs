@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using Task1SQL2_1_.Core;
 using Task1SQL2_1_.Model;
 
-namespace Task2SqlServer.View
+namespace Task2.View
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
